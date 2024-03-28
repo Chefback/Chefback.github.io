@@ -1,4 +1,4 @@
 ---
-title: "Art"
-layout: "art"
+title: '生活'
+layout: 'art'
 ---

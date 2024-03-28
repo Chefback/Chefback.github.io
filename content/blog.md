@@ -1,4 +1,4 @@
 ---
-title: "Blog"
-layout: "blog"
+title: '文章'
+layout: 'blog'
 ---
