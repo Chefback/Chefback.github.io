@@ -62,7 +62,7 @@ params:
       repo: Chefback/chefback.github.io
       repo_id: R_kgDOKwt1ag
       category: Announcements
-      category_id: DIC_kwDOHyVOjs4CQsH7
+      category_id:DIC_kwDOKwt1as4CeTQI
       mapping: pathname
       position: top
       lang: zh # pick a language from https://github.com/giscus/giscus/tree/main/locales
