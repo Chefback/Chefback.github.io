@@ -65,7 +65,7 @@ params:
       category_id: DIC_kwDOKwt1as4CeTQI
       mapping: pathname
       position: top
-      lang: zh # pick a language from https://github.com/giscus/giscus/tree/main/locales
+      lang: zh-CN # pick a language from https://github.com/giscus/giscus/tree/main/locales
   guestbook:
     title: 留言板
     description: 有什么想对我说的吗？
